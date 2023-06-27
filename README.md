@@ -1,1 +1,1 @@
-# laravel-symfony-test-master
+# Laravel
